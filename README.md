@@ -72,9 +72,7 @@ The frontend, backend, and database will work together to manage farmer profiles
 5. Security and Performance
 
 The platform will use secure authentication, role-based access, input validation, and appropriate data protection measures. Testing will be performed to verify functionality, prevent common errors, and ensure reliable performance as the number of users increases. 
-     <img width="1145" height="1374" alt="technical approach" src="https://github.com/user-attachments/assets/bbb63b9c-6c8d-425a-aca9-2cd32c81a448" />
-
-## Feasibility and Viability
+     
 
 1. Feasibility Analysis:
 The project is technically feasible using existing technologies. Open-source tools reduce development costs, while a simple mobile-friendly interface makes it practical for farmers.
