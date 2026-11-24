@@ -71,8 +71,9 @@ The frontend, backend, and database will work together to manage farmer profiles
 
 5. Security and Performance
 
-The platform will use secure authentication, role-based access, input validation, and appropriate data protection measures. Testing will be performed to verify functionality, prevent common errors, and ensure reliable performance as the number of users increases.   
-   
+The platform will use secure authentication, role-based access, input validation, and appropriate data protection measures. Testing will be performed to verify functionality, prevent common errors, and ensure reliable performance as the number of users increases. 
+     <img width="1145" height="1374" alt="technical approach" src="https://github.com/user-attachments/assets/bbb63b9c-6c8d-425a-aca9-2cd32c81a448" />
+
 ## Feasibility and Viability
 
 1. Feasibility Analysis:
@@ -87,6 +88,8 @@ The project is technically feasible using existing technologies. Open-source too
 
 3. Strategies to Overcome Challenges:
 Provide regional-language support, partner with local transport providers, update market prices regularly, and implement secure payment systems.
+<img width="1145" height="1374" alt="technical approach" src="https://github.com/user-attachments/assets/436a0d33-a067-406e-8738-4dc4edc03ce9" />
+<img width="1145" height="1374" alt="technical approach" src="https://github.com/user-attachments/assets/3fc9ce12-da70-4279-843b-cd179ec618f6" />
 
 ## Impact and Benefits
 1. Impact on Target Audience:
